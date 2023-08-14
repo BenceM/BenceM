@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenceM
 - 👀 I’m interested in Coding, Blockchain, AI, Health, Nutrition, Training.
-- 📚 I'm learning these languages: Js, Rust, Python
-- 🌱 I’m currently focusing on Front-end (Js, React).
+- 📚 I'm learning these languages: JS
+- 🌱 I’m currently focusing on Front-end (React).
 - 💞️ I’m looking to collaborate on any good project, that I could provide value to.
 
 <!---
