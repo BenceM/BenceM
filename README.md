@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BenceM
-- 📚 React dev
+- 📚 React and Next.js dev
 - 👀 I’m interested in Coding, Blockchain, AI, Health, Nutrition, Training
 - 🌱 I’m currently focusing on Next.js
-- 💞️ I’m looking to collaborate on any good project, that I could provide value to
 
 <!---
 BenceM/BenceM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
